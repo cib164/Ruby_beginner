@@ -1,2 +1,2 @@
 # Ruby_beginner
-Mes premiers algorithme avec ruby
+Mes premiers algorithmes avec ruby
